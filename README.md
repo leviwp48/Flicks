@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My biggest challenge happened when I had lost some of my progress and kept some. Which left me in a weird in between - I didn't know where to begin again. So, I had to walk through the whole tutorial once again. But of course I tried to patch my first project which wasted a lot of time and effort.
 
 ## Open-source libraries used
 
