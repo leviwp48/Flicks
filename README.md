@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/leviwp48/Flicks2/blob/master/Flicks2.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/leviwp48/Flicks2/blob/master/Flicks2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
