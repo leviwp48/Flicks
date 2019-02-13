@@ -1,6 +1,6 @@
-# *Flicks2*
+# *Flicks*
 
-**Flicks2** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
+**Flicks** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
 ## App Features
 
