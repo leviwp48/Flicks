@@ -2,6 +2,12 @@
 
 **Flicks** shows the latest movies currently playing in theaters. The app utilizes the Movie Database API to display images and basic information about these movies to the user.
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/leviwp48/Flicks2/blob/master/Flicks2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ## App Features
 
 * User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
@@ -22,12 +28,6 @@
 * Add a play icon overlay to popular movies to indicate that the movie can be played (1 point).
 * Apply the popular ButterKnife annotation library to reduce view boilerplate. (1 point)
 * Add a rounded corners for the images using the Glide transformations. (1 point)
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='https://github.com/leviwp48/Flicks2/blob/master/Flicks2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Open-source libraries used
 
