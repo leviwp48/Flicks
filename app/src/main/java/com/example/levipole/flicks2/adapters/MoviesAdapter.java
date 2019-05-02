@@ -3,17 +3,14 @@ package com.example.levipole.flicks2.adapters;
 import android.content.Context;
 import android.content.Intent;
 import android.content.res.Configuration;
-import android.os.Parcel;
 import android.support.annotation.NonNull;
+import android.support.constraint.ConstraintLayout;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 import com.example.levipole.flicks2.DetailActivity;
@@ -58,7 +55,7 @@ public class MoviesAdapter extends RecyclerView.Adapter<MoviesAdapter.ViewHolder
         TextView tvTitle;
         TextView tvOverview;
         ImageView ivPoster;
-        RelativeLayout container;
+        ConstraintLayout container;
 
         public ViewHolder(View itemView){
             super(itemView);

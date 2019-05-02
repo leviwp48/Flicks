@@ -1,14 +1,12 @@
 package com.example.levipole.flicks2;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 
 import com.example.levipole.flicks2.adapters.MoviesAdapter;
 import com.example.levipole.flicks2.models.Movie;
-import com.example.levipole.flicks2.R;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.JsonHttpResponseHandler;
 
@@ -21,7 +19,8 @@ import java.util.List;
 
 import cz.msebera.android.httpclient.Header;
 
-public class MovieActivity extends AppCompatActivity {
+public class
+MovieActivity extends AppCompatActivity {
 
     private static final String MOVIE_URL = "https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed";
 

@@ -1,9 +1,6 @@
 package com.example.levipole.flicks2;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
-import android.util.JsonReader;
-import android.util.Log;
 import android.widget.RatingBar;
 import android.widget.TextView;
 
@@ -87,7 +84,6 @@ public class DetailActivity extends YouTubeBaseActivity {
                     youTubePlayer.cueVideo(youtubeKey);
                 }
             }
-
             @Override
             public void onInitializationFailure(YouTubePlayer.Provider provider, YouTubeInitializationResult youTubeInitializationResult) {
             }
